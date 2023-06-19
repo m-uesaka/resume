@@ -19,6 +19,6 @@
     "md-to-pdf": "^5.2.4"
   },
   "scripts": {
-    "build:pdf": "npx md-to-pdf docs/resume.md --config-file ./pdf-configs/config.js"
+    "build:pdf": "npx md-to-pdf docs/README.md --config-file ./pdf-configs/config.js"
   }
 }
