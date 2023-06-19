@@ -9,6 +9,11 @@
 |居住地|東京都|
 |最終学歴|東京大学大学院数理科学研究科|
 
+## 各種リンク
+
+- [researchmap](https://researchmap.jp/masaaki_uesaka)
+- [ORCiD](https://orcid.org/0000-0001-6377-747)
+
 ## 保有スキル
 
 - Python及びC++による数値計算，データ解析，機械学習を中心とした研究開発
