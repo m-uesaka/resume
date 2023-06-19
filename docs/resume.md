@@ -1,0 +1,121 @@
+# 職務経歴書
+
+## 基本情報
+
+|key|value|
+|---|---|
+|氏名|上坂正晃(Masaaki Uesaka)|
+|生年月日|1983年7月24日|
+|居住地|東京都|
+|最終学歴|東京大学大学院数理科学研究科|
+
+## 保有スキル
+
+- Python及びC++による数値計算，データ解析，機械学習を中心とした研究開発
+- オブジェクト指向を駆使したレガシーコードのリファクタリング
+- 再利用可能性を意識したライブラリコード設計
+- 応用数学の研究経験及び知識（偏微分方程式の理論と数値計算がメイン）
+- チームコミュニケーション，社内の異なる立場の人たちとのファシリテーション
+- 顧客に向けた技術の説明・プレゼンテーション
+
+## 技術スタック
+
+<p>
+    <img src="https://img.shields.io/badge/-Python-yellow.svg?logo=python&style=plastic">
+    <img src="https://img.shields.io/badge/-C++-00599C.svg?logo=cplusplus&style=plastic">
+</p>
+
+## 教育経歴
+
+- 2011年: 東京大学大学院数理科学研究科博士後期課程修了
+  - 指導教員: 山本昌宏教授
+  - 博士論文題目: カーレマン評価を用いた，粘弾性論・ 材料科学・個体群動態学における偏微分方程式系の係数決定逆問題について (Coefficient inverse problems for partial differential equations in the viscoelasticity, the material science and population dynamics by Carleman estimate)
+
+## 職歴
+
+- 2011年 - 2012年: 東京大学大学院数理科学研究科 GCOE特任研究員
+  - 大手鉄鋼メーカーや大手化学メーカー等との共同研究に従事
+  - 企業と数理科学研究者の議論の機会を作るStudy Group Workshopの運営に参画
+
+- 2013年 - 2017年: 東京大学大学院数理科学研究科 特任助教
+  - 大学1年生の線形代数・微分積分学の演習を担当
+  - 既存の企業との共同研究とイベント運営業務を継続
+
+- 2011年 - 2017年: 城西大学理学部 非常勤講師
+  - 数学科向けの解析学基礎や複素関数論の授業を通年で担当
+  - 薬学部向けの数学の授業を担当
+
+- 2017年 - 2019年: 北海道大学電子科学研究所 CREST研究員
+  - 「数理モデリングを基盤とした数理皮膚科学の創設（研究代表者: 長山雅晴教授）」のメンバー
+  - 表皮細胞動態をシミュレートする数理モデルの数値計算とその解析に従事．
+  - 数値計算は主にC++を使用し，Intel tbbを用いた並列計算も使用
+  - 結果のデータ解析や可視化にはRを用いていた
+
+- 2019年 - 2023年: Arithmer株式会社 研究開発本部
+  - 2019年: OCR室にて，OCR技術の基礎研究に従事
+  - 同年: Dyna室室長となり，機械学習を援用した動画解析の研究及び関連プロジェクトをリードする．
+    - 運輸業界向けの大型車両向けの危険アラートシステム開発のため，顧客との交渉に技術的立場から助言を行うとともに，ハードウェアなどの技術選定で他のエンジニアをリード．
+    -
+  - シニアエキスパートとなり研究開発にシフト
+    - 大手ヘルスケア事業会社からの依頼で、iPhoneなどによる動画撮影とSfMを用いた3次元計測技術のPoCに従事．
+  - インターン生の教育に従事．
+    - githubによるPull Requestとコードレビューの方法や，`pytest`によるテストの書き方，オブジェクト指向的なコードの書き方などを指導．
+  - 2021年: CTO補佐に就任
+    - 大手SIerとともに，大規模降雨による浸水リスクをリアルタイムで予測するシステム構築のためのPoCを実施
+      - `geopandas`や`fiona`などを用いた地理情報の取り扱い，PyTorchによる機械学習モデル構築，GPU(`cupy`)を用いた双曲保存則系の数値計算などを駆使して基礎技術を確立した．
+    - 土木関係の大手スタートアップとの技術コンサルティングを担当
+      - 1週間に1回顧客定例を行い，顧客の抱える技術課題の解決に協力
+      - 主な技術領域は，グラフ理論，最適化，数値計算，時系列データ解析
+
+- 2019年 - 2023年: 東京大学大学院数理科学研究科 特任准教授（兼務）
+  - Arithmer株式会社との同研究科の共同研究に従事．
+  - 全変動流を含む結晶粒界モデル(Kobayashi-Warren-Carterモデル)の特異極限及び勾配流方程式の挙動についての数学的解析に従事．
+  - 2本の論文を出版．
+
+## 出版論文
+
+- Kota Ohno, Yasuaki Kobayashi, Masaaki Uesaka, Takeshi Gotoda, Mitsuhiro Denda, Hideyuki Kosumi, Mika Watanabe, Ken Natsuga, Masaharu Nagayama, A computational model of the epidermis with the deformable dermis and its application to skin diseases, Scientific Reports 11(1),
+- Yoshikazu Giga, Jun Okamoto, Masaaki Uesaka, A finer singular limit of a single-well Modica–Mortola functional and its applications to the Kobayashi–Warren–Carter energy, Advances in Calculus of Variations 16(1),  163-182
+- Masashi Nakatani, Yasuaki Kobayashi, Kota Ohno, Masaaki Uesaka, Sayako Mogami, Zixia Zhao, Takamichi Sushida, Hiroyuki Kitahata, Masaharu Nagayama, Temporal coherency of mechanical stimuli modulates tactile form perception, Scientific Reports 11(1),
+- Masaaki Uesaka, Ken-Ichi Nakamura, Keiichi Ueda, Masaharu Nagayama, Stability of stationary points for one-dimensional Willmore energy with spatially heterogeneous term, Physica D: Nonlinear Phenomena 417,  132812-132812
+- Yasushi Ota, Yu Jiang, Gen Nakamura, Masaaki Uesaka, Bayesian inference approach to inverse problems in a financial mathematical model, International Journal of Computer Mathematics 97(10),  1967-1981
+- Yoshikazu Giga, Koya Sakakibara, Kazutoshi Taguchi, Masaaki Uesaka, A new numerical scheme for discrete constrained total variation flows and its convergence, Numerische Mathematik 146(1),  181-217
+- Junichi Kumamoto, Shinobu Nakanishi, Mio Makita, Masaaki Uesaka, Yusuke Yasugahira, Yasuaki Kobayashi, Masaharu Nagayama, Sumiko Denda, Mitsuhiro Denda, Mathematical-model-guided development of full-thickness epidermal equivalent, Scientific Reportsvolume 8(17999),
+- Hiroyasu Hamada, Sigeki Matsutani, Jun-ichi Nakagawa, Osamu Saeki, Masaaki Uesaka, An algebraic description of screw dislocations in SC and BCC crystal lattices, Pacific Journal of Mathematics for Industry 10(3),
+- Masaaki Uesaka, Masahiro Yamamoto, Carleman estimate and unique continuation for a structured population model, APPLICABLE ANALYSIS 95(3),  599-614
+
+## 口頭発表
+
+- 社会問題に貢献する数理科学，大田佳宏，上坂正晃，武蔵野大学数理工学センター（MCME）セミナー 2023年4月19日
+- Kobayashi-Warren-Carter汎関数の精密特異極限とその勾配流の挙動について, 上坂正晃, 岡本潤, 榊原航也, 儀我美一, 日本応用数理学会 2022年度年会  2022年9月8日  
+- The well-posedness and its short-time asymptotics of the reaction-diffusion-particle model for camphor motion in two dimension, Masaaki Uesaka, Gen Nakamura, Masaharu Nagayama, 9th International Congress on Industrial and Applied Mathematics  2020年7月18日  
+- 表皮構造の数理モデルにおける細胞の扁平化と細胞の多面体形状について, 上坂正晃, 後藤田剛, 一本嶋佐理, 北畑 裕之, 小林康明, 安ヶ平裕介, 傳田光洋, 長山雅晴, 第24回計算工学講演会  2020年5月30日  
+- 離散全変動写像流の数値計算法について, 上坂正晃, 表面・界面ダイナミクスの数理17  2019年4月18日  
+- The well-posedness and its short-time asymptotics of the reaction-diffusion-particle model for the camphor motion in two dimension, Masaaki Uesaka, 2018 China-Japan Workshop on Nonlinear Diffusion Problems  2018年11月4日  
+- A variational problem arising from the modeling of epidermal basement membrane and its analysis, Masaaki Uesaka, Ken-Ichi Nakamura, Keiichi Ueda, Yasuaki Kobayashi, Masaharu Nagayama, A3 Foresight Program The 5th Joint Workshop, Mathematics of Biology, Fluid Dynamics and Material Sciences  2018年10月20日  
+- 表皮基底膜のモデリングとその数理解析について, 上坂正晃, 中村健一, 上田肇一, 小林康明, 長山雅晴, 軽井沢グラフと解析研究集会  2018年10月6日  
+- Lie群値写像の1−調和写像流に関する時間離散化スキームについて, 儀我美一, 榊原航也, 田口和稔, 上坂正晃, 北陸応用数理研究会2018  2018年2月19日  
+- A discrete total variation flow with rotation matrix-valued function coming and directional data processing in crystal structure, Yoshikazu Giga, Koya Sakakibara, Kazutoshi Taguchi, Masaaki Uesaka, Inverse problems and medical imaging  2018年2月16日  
+- 結晶内らせん転位のエネルギーの円周に値を取る離散系としての定式化, 上坂正晃, 北大HMMCセミナー  2017年5月11日  
+- Algebraic formulation of screw dislocation and a related variation problem, 上坂正晃, 金沢解析セミナー  2017年3月28日  
+- らせん転位のエネルギーの定式化について: $S^1$ に値を取る離散系の$\Gamma$極限, 上坂正晃, 結晶のらせん転位の数理  2016年9月2日  
+- 数学によるヘルスケア分野における課題解決への期待, 上坂正晃, 日本数学会・数学連携ワークショップ---産業界での数学の応用---  2016年3月17日  
+- $\Gamma$-limit of a variational problem of a discrete system valued in $S^1$, 上坂正晃, Winter School in Imaging Science  2016年1月20日  
+- Inverse problem for a phase field system by measurements of one component, 上坂正晃, International Conference on Inverse Problems and Related Topics  2014年12月15日  
+- Homogenization in a Thin Layer with an Oscillating Interface and Highly Contrast Coefficients, 上坂正晃, 2014 Seoul-Tokyo Conference, Applied Partial Differential Equations: Theory and Applications  2014年12月13日  
+- 線形化された Phase Field Model の係数決定逆問題について, 上坂正晃, 偏微分方程式に対する逆問題の数学解析と数値解析  2013年7月17日
+
+## その他記事
+
+- 儀我 美一, 上坂 正晃. 相の構造を考慮した拡散界面エネルギーとその特異極限. 応用数理 32(4) 186-197 2022年12月23日
+- 上坂 正晃, 新田 恭平, 佐藤 大輔, 大田 佳宏. ３次元点群のアノテーションを効率化するための半自動化システム. 応用数理 32(1) 32-36 2022年3月25日
+- 大野 航太, 小林 康明, 後藤田 剛, 上坂 正晃, 安ケ平 祐介, 北畑 裕之, 傳田 光洋, 長山 雅晴. 表皮構造の数理モデルを用いた皮膚疾患への応用. 計算工学講演会論文集 Proceedings of the Conference on Computational Engineering and Science 25 3p 2020年6月
+- 上坂 正晃, 後藤田 剛, 一本嶋 佐理, 北畑 裕之, 小林 康明, 安ヶ平 裕介, 傳田 光洋, 長山 雅晴. 表皮構造の数理モデルにおける細胞の扁平化と細胞の多面体形状について. 24 5p 2019年5月
+- 後藤田 剛, 上坂 正晃, 安ケ平 裕介, 小林 康明, 北畑 裕之, 傳田 光洋, 長山 雅晴. 表皮数理モデルにおける皮膚バリア機能の恒常性. 24 5p 2019年5月
+- 後藤田 剛, 上坂 正晃, 安ケ平 裕介, 小林 康明, 北畑 裕之, 傳田 光洋, 長山 雅晴. 表皮における顆粒層の安定化とタイトジャンクション形成の数理モデリング. 23 5p 2018年6月
+
+## 特許
+
+- 特願2020-129328, 上坂 正晃, 運転支援方法、運転支援プログラムおよび運転支援システム, 2020年7月30日
+- 特願2020-143212, 太田 和伸, 上坂 正晃, 服部 成治, 坪井 祐太, プログラム、情報処理装置及び情報処理方法, 2020年8月27日
+- 特願2020-137533, 中野 嵩士, 八登 浩紀, 上坂 正晃, 情報処理方法、プログラム、情報処理装置及びモデル生成方法, 2020年8月17日
