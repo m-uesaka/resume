@@ -109,15 +109,23 @@
 
 ## 出版論文
 
-- Kota Ohno, Yasuaki Kobayashi, Masaaki Uesaka, Takeshi Gotoda, Mitsuhiro Denda, Hideyuki Kosumi, Mika Watanabe, Ken Natsuga, Masaharu Nagayama, A computational model of the epidermis with the deformable dermis and its application to skin diseases, Scientific Reports 11(1),
-- Yoshikazu Giga, Jun Okamoto, Masaaki Uesaka, A finer singular limit of a single-well Modica–Mortola functional and its applications to the Kobayashi–Warren–Carter energy, Advances in Calculus of Variations 16(1),  163-182
-- Masashi Nakatani, Yasuaki Kobayashi, Kota Ohno, Masaaki Uesaka, Sayako Mogami, Zixia Zhao, Takamichi Sushida, Hiroyuki Kitahata, Masaharu Nagayama, Temporal coherency of mechanical stimuli modulates tactile form perception, Scientific Reports 11(1),
-- Masaaki Uesaka, Ken-Ichi Nakamura, Keiichi Ueda, Masaharu Nagayama, Stability of stationary points for one-dimensional Willmore energy with spatially heterogeneous term, Physica D: Nonlinear Phenomena 417,  132812-132812
-- Yasushi Ota, Yu Jiang, Gen Nakamura, Masaaki Uesaka, Bayesian inference approach to inverse problems in a financial mathematical model, International Journal of Computer Mathematics 97(10),  1967-1981
-- Yoshikazu Giga, Koya Sakakibara, Kazutoshi Taguchi, Masaaki Uesaka, A new numerical scheme for discrete constrained total variation flows and its convergence, Numerische Mathematik 146(1),  181-217
-- Junichi Kumamoto, Shinobu Nakanishi, Mio Makita, Masaaki Uesaka, Yusuke Yasugahira, Yasuaki Kobayashi, Masaharu Nagayama, Sumiko Denda, Mitsuhiro Denda, Mathematical-model-guided development of full-thickness epidermal equivalent, Scientific Reportsvolume 8(17999),
-- Hiroyasu Hamada, Sigeki Matsutani, Jun-ichi Nakagawa, Osamu Saeki, Masaaki Uesaka, An algebraic description of screw dislocations in SC and BCC crystal lattices, Pacific Journal of Mathematics for Industry 10(3),
-- Masaaki Uesaka, Masahiro Yamamoto, Carleman estimate and unique continuation for a structured population model, APPLICABLE ANALYSIS 95(3),  599-614
+1. Giga, Y., Okamoto, J., & Uesaka, M. (2021). A finer singular limit of a single-well Modica-Mortola functional and its applications to the Kobayashi-Warren-Carter energy. *Advances in Calculus of Variations*, 16(1), 163–182. doi:10.1515/acv-2020-0113
+
+2. Uesaka, M., Nakamura, K.-I., Ueda, K., & Nagayama, M. (2021). Stability of stationary points for one-dimensional Willmore energy with spatially heterogeneous term. *Physica D: Nonlinear Phenomena*, 417, 132812. doi:10.1016/j.physd.2020.132812
+
+3. Ohno, K., Kobayashi, Y., Uesaka, M., Gotoda, T., Denda, M., Kosumi, H., ... Nagayama, M. (2021). A computational model of the epidermis with the deformable dermis and its application to skin diseases. *Scientific Reports*, 11(1). doi:10.1038/s41598-021-92540-1
+
+4. Nakatani, M., Kobayashi, Y., Ohno, K., Uesaka, M., Mogami, S., Zhao, Z., ... Nagayama, M. (2021). Temporal coherency of mechanical stimuli modulates tactile form perception. *Scientific Reports*, 11(1). doi:10.1038/s41598-021-90661-1
+
+5. Ota, Y., Jiang, Y., Nakamura, G., & Uesaka, M. (2019). Bayesian inference approach to inverse problems in a financial mathematical model. *International Journal of Computer Mathematics*, 97(10), 1967–1981. doi:10.1080/00207160.2019.1671978
+
+6. Giga, Y., Sakakibara, K., Taguchi, K., & Uesaka, M. (2020). A new numerical scheme for discrete constrained total variation flows and its convergence. *Numerische Mathematik*, 146(1), 181–217. doi:10.1007/s00211-020-01134-y
+
+7. Hamada, H., Matsutani, S., Nakagawa, J., Saeki, O., & Uesaka, M. (2018). An algebraic description of screw dislocations in SC and BCC crystal lattices. *Pacific J. Math. Ind.*, 10(1), 3. doi:10.1186/s40736-018-0037-8
+
+8. Kumamoto, J., Nakanishi, S., Makita, M., Uesaka, M., Yasugahira, Y., Kobayashi, Y., ... Denda, M. (2018). Mathematical-model-guided development of full-thickness epidermal equivalent. *Scientific Reports*, 8(1). doi:10.1038/s41598-018-36647-y
+
+9. Uesaka, M., & Yamamoto, M. (2016). Carleman estimate and unique continuation for a structured population model. *Appl. Anal.*, 95(3), 599–614. doi:10.1080/00036811.2015.1022157
 
 ## 口頭発表
 
